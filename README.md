@@ -12,16 +12,6 @@ An AI-powered app builder that generates React Native applications using natural
 - 🎨 **Live Preview**: Preview generated apps before deployment
 - 🚀 **Expo Router**: File-based routing with protected routes
 
-## Video Tutorial
-
-Watch and build this App Builder step by step:
-
-<p align="center">
-  <a href="https://youtu.be/HRACNTmikZI" target="_blank">
-    <img src="https://img.youtube.com/vi/HRACNTmikZI/maxresdefault.jpg" alt="Build your own App Builder with React Native and InstantDB" width="100%" />
-  </a>
-</p>
-
 ## Getting Started
 
 ### Prerequisites
@@ -78,11 +68,3 @@ OPENAI_API_KEY=your-openai-api-key
    # Android
    bunx expo run:android
    ```
-
-## 🚀 Learn More
-
-**Take a shortcut from web developer to mobile development fluency with guided learning**
-
-Enjoyed this project? Learn to use React Native to build production-ready, native mobile apps for both iOS and Android based on your existing web development skills.
-
-<a href="https://galaxies.dev?utm_source=simongrimm&utm_medium=github&vid=pocket-clone"><img src="banner.png" height="auto" width="100%"></a>
